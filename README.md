@@ -46,4 +46,4 @@ My preferred biography for technical endeavors:
 
 ## Featured Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wCTFl4JRoYE/0.jpg)](https://www.youtube.com/watch?v=wCTFl4JRoYE)
+[![IMAGE ALT TEXT HERE](/img/cncf-a.png)](https://www.youtube.com/watch?v=wCTFl4JRoYE)
