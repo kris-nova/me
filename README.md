@@ -1,5 +1,8 @@
+# Kris Nova
+
+
 <p align="center"><img src="/img/nova-headshot-selfie.JPG" width="340"></p>
-<p align="center"><b>Kris Nova</b></p>
+
 
 A repository that holds basic information about me that can be used for misc public facing endeavors.
 
