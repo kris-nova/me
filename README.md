@@ -18,6 +18,10 @@ A repository that holds basic information about me that can be used for misc pub
  - [Nivenly.com](https://nivenly.com) My ridiculous tech blog.
  - [BecomingKris.com](https://becomingkris.com) I'm transgender. I'm an engineer. I climb mountains. I'm fucking awesome.
  - [NovaSummits.com](https://novasummits.com) Mountaineering.
+ 
+## Author
+
+ - [Cloud Native Infrastructure](http://cnibook.info)
 
 ## Request for me to speak at your event
 
