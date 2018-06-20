@@ -1,8 +1,8 @@
-# me
+# Kris Nova
 
 A repository that holds basic information about me that can be used for misc public facing endeavors 
 
-# Request for me to speak at your conference
+### Request for me to speak at your conference
 
 The best way to ask me to speak at your conference is to email events@nivenly.com and include the following information:
 
