@@ -6,13 +6,20 @@
 
 A repository that holds basic information about me that can be used for misc public facing endeavors.
 
-Links to my personal blogs:
+## Find me online
+
+ - GitHub [kris-nova](https://github.com/kris-nova) 
+ - Twitter [@krisnova](https://twitter.com/krisnova) 
+ - LinkedIn [kris-nova](https://linkedin.com/kris-nova) 
+ 
+
+## Links to my personal blogs:
 
  - [Nivenly.com](https://nivenly.com) My ridiculous tech blog.
  - [BecomingKris.com](https://becomingkris.com) I'm transgender. I'm an engineer. I climb mountains. I'm fucking awesome.
  - [NovaSummits.com](https://novasummits.com) Mountaineering.
 
-### Request for me to speak at your event
+## Request for me to speak at your event
 
 The best way to ask me to speak at your conference is to email events@nivenly.com and include the following information:
 
@@ -26,7 +33,7 @@ The best way to ask me to speak at your conference is to email events@nivenly.co
  
  
 
-### Biography 
+## Biography 
 
 My preferred biography for technical endeavors:
 
