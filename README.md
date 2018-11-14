@@ -10,7 +10,7 @@ A repository that holds basic information about me that can be used for misc pub
 
  - GitHub [kris-nova](https://github.com/kris-nova) 
  - Twitter [@krisnova](https://twitter.com/krisnova) 
- - LinkedIn [kris-nova](https://linkedin.com/kris-nova) 
+ - LinkedIn [kris-nova](https://linkedin.com/in/kris-nova) 
  
 
 ## Links to my personal blogs:
