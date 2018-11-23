@@ -31,7 +31,6 @@ The best way to ask me to speak at your conference is to email events@nivenly.co
  - What is the best link to find out more about the event
  - What is your name and contact information?
  - What type of presentation you have in mind?
- - Are there any mountains near the event? Rock climbs? Ice climbs?
  - Anything else you want!
  
  These emails go directly to a private account that I own. I recieve push notifications, so I assure you - I will see this request. It might take me a while to get back to you, so please be patient. 
