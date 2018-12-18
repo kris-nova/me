@@ -1,8 +1,8 @@
 # Kris Nova
 
 
-<p align="center"><img src="/img/nova-headshot-selfie.JPG" width="340"></p>
-
+<p align="center"><img src="/img/nova-1.jpg" width="340"></p>
+<p align="center"><img src="/img/nova-2.jpg" width="340"></p>
 
 A repository that holds basic information about me that can be used for misc public facing endeavors.
 
