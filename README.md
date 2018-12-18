@@ -5,7 +5,9 @@
 <p align="center"><img src="/img/nova-boots.jpg" width="340"></p>
 
 These pictures are free to use for public speaking listings, and social media.
-These pictures are NOT free to use for any form of publication with consent from the author Peter Adams of [facesofopensource.com](facesofopensource.com)
+These pictures are NOT free to use for any form of publication with consent from the author Peter Adams of [facesofopensource.com](http://facesofopensource.com/kris-nova/)
+
+The [img](https://github.com/kris-nova/me/tree/master/img) directory of this repository contains more images that can be used for publications.
 
 
 
