@@ -1,8 +1,13 @@
 # Kris Nova
 
 
-<p align="center"><img src="/img/nova-1.jpg" width="340"></p>
-<p align="center"><img src="/img/nova-2.jpg" width="340"></p>
+<p align="center"><img src="/img/nova-headshot.jpg" width="340"></p>
+<p align="center"><img src="/img/nova-boots.jpg" width="340"></p>
+
+These pictures are free to use for public speaking listings, and social media.
+These pictures are NOT free to use for any form of publication with consent from the author Peter Adams of [facesofopensource.com](facesofopensource.com)
+
+
 
 A repository that holds basic information about me that can be used for misc public facing endeavors.
 
