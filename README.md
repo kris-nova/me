@@ -29,13 +29,6 @@ Best way to contact you: I value brevity. If you can't find what you need here, 
  - Twitter [@krisnova](https://twitter.com/krisnova) 
  - LinkedIn [kris-nova](https://linkedin.com/in/kris-nova) 
  
-
-## Links to my personal blogs:
-
- - [Nivenly.com](https://nivenly.com) My ridiculous tech blog.
- - [BecomingKris.com](https://becomingkris.com) I'm transgender. I'm an engineer. I climb mountains. I'm fucking awesome.
- - [NovaSummits.com](https://novasummits.com) Mountaineering.
- 
 ## Author
 
  - [Cloud Native Infrastructure](http://cnibook.info)
