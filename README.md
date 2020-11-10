@@ -45,7 +45,7 @@ I would prefer to not share too many of my public speaking talks, but these ones
  
   - [kops](https://github.com/kubernetes/kops)
   - [kubicorn](https://github.com/kubicorn/kubicorn)
-  - [sig-cluster-lifecycle[(https://github.com/kubernetes/community/blob/master/sig-cluster-lifecycle/README.md)
+  - [sig-cluster-lifecycle](https://github.com/kubernetes/community/blob/master/sig-cluster-lifecycle/README.md)
   - [sig-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
   - [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
   
@@ -108,4 +108,8 @@ I would prefer to not share too many of my public speaking talks, but these ones
   - Send an email to [me](nova@nivenly.com) and introduce yourself.
   - Keep the communication consolidated for my sake. 
   - Kubernetes slack is great for me. Feel free to start here as well. 
+  
+  # Comments?
+
+Just drop them right below.
   
