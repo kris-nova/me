@@ -29,7 +29,7 @@ I would prefer to not share too many of my public speaking talks, but these ones
  
  #### Cloud Native Infrastructure
  
- [Buy several copies for your immediate and distant friends and families for the holidays today!](https://www.cnibook.info/)
+ [Buy several copies for your immediate and distant friends and family for the holidays today!](https://www.cnibook.info/)
  
  I wrote the book on it. Literally. Based on years of infrastructure and SRE experiance this book talks about writing software to manage and mutate infrastructue. Inspired by work in Kubernetes and reconciling infrastructure using Go and Kubernetes libraries. 
  
