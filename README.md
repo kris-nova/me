@@ -73,7 +73,7 @@ I would prefer to not share too many of my public speaking talks, but these ones
  
  I want to build something. I miss the days of writing code with a good team of folks and working towards building something we are proud of. 
  
- Real, concrete problems are probably the best way to attract. If your shit is broken, we should talk. 
+ Real, concrete problems are probably the best way to attract me. If your shit is broken, we should talk. 
  
  #### Security
  
