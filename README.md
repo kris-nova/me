@@ -105,7 +105,7 @@ I would prefer to not share too many of my public speaking talks, but these ones
   
  If you made it this far pat yourself on the back. 
  
-  - Send an email to [me](nova@nivenly.com) and introduce yourself.
+  - Send an email to [me](mailto:nova@nivenly.com) and introduce yourself.
   - Keep the communication consolidated for my sake. 
   - Kubernetes slack is great for me. Feel free to start here as well. 
   
