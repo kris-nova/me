@@ -65,7 +65,7 @@ I would prefer to not share too many of my public speaking talks, but these ones
    - **Marketing/Public Speaking.** I am happy to prepare presentations. I am happy to give speaches. I am happy to speak at tech events when it makes sense. I am happy to attend events when it makes sense. I will not under no-circumstance offer myself as a marketing instrument. This is non-negotiable. 
    - **Remote Work** At least until me and my family feel it is safe to return a work environment I will be a remote worker. I thrive on public interaction and working closely with my peers, but I am not interested in an "in your seat" work enviornment. Remote work is preferred. This is negotiable. 
    - **Open Source** I have a lot of personal open source commitments. Most of which are bound by an Apache 2 license (but there are others). I am happy to negotiate how much time I spend dedicated to any or all of these projects during employment. However if asking me to stop working on these projects completely is something you require - this is not a good match. 
-   -- **Fine Print** I understand that it will be in your best interest to protect company assets. My work in open source however will come with a a clear warning that my work spans the duration of employment and to be honest -- that is why I am valuable.
+   - **Fine Print** I understand that it will be in your best interest to protect company assets. My work in open source however will come with a a clear warning that my work spans the duration of employment and to be honest -- that is why I am valuable.
    
  Now let's talk about what I do want `:)` 
  
