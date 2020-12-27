@@ -31,7 +31,7 @@ I would prefer to not share too many of my public speaking talks, but these ones
  
  [Buy several copies for your immediate and distant friends and family for the holidays today!](https://www.cnibook.info/)
  
- I wrote the book on it. Literally. Well it was me and my great pal Justin Garrison anyway. This is based on years of infrastructure and SRE experience this book talks about writing software to manage and mutate infrastructue. Inspired by work in Kubernetes and reconciling infrastructure using Go and Kubernetes libraries. 
+ I wrote the book on it. Literally. Well it was me and my great pal Justin Garrison anyway. This is based on years of infrastructure and SRE experience this book talks about writing software to manage and mutate infrastructure. Inspired by work in Kubernetes and reconciling infrastructure using Go and Kubernetes libraries. 
  
  #### Falco
  
