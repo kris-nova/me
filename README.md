@@ -101,6 +101,18 @@ I would prefer to not share too many of my public speaking talks, but these ones
   
   ---
   
+  # Ways to get my attention
+  
+I need to finance an upcoming surgery which should run about 60-70k USD. 
+ 
+Offering to either
+
+- Help with cost
+- Help with convincing the insurance companies to cover the cost
+ 
+ is a sure way to bump you to the top of my list. (I sincerely mean this).
+ 
+  
   # If you are interested
   
  If you made it this far pat yourself on the back. 
