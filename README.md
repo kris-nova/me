@@ -4,9 +4,7 @@ Currently accepting engagements for employment.
 
 # About Me
 
-I am currently taking a much needed break from tech, and an undetermined hiatus from public speaking and advocacy. I am currently focusing on taking a few calm breaths in the coldest and cleanest air I can find. 2020 has been rough for everyone and right now I just want to remain in touch with what grounds me, mountains.
-
-You can find an enormous amount of information about me on the internet. Just google [kris nova](https://www.google.com/search?q=kris+nova) and I imagine the first few hits will give you an idea of what I have done in the past. 
+Just a queer alpine climbing hacker with a knack for getting in to trouble and solving problems.
 
 ## A few notable resources
 
