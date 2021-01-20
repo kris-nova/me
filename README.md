@@ -77,9 +77,11 @@ I would prefer to not share too many of my public speaking talks, but these ones
  
  I would like to continue my security engineering and kernel work. This includes working on and with tools such as
  
+  - Kubernetes security
   - eBPF
   - The kernel (tracepoints, system calls, architecture, etc)
-  - Falco
+  - Application instrumentation
+  - Application security
 
   
   #### Languages
