@@ -43,9 +43,16 @@ Click the ones you would **like to** work with.
  
  Ask everyone these questions.
  
-  - What is the warmest memory you have at this job? Birthday cake? Best hug? Promotion?
+  - What is the warmest memory you have at this job? 
+     - Birthday cake? Best hug? Promotion? Kitty pictures? 
+     - IPO? IPA? I pee in the right bathroom?
   - Do you think I would fit in?
-  - Is there anything you wish somebody would have told you before interviewing or accepting a job here.
+     - Yes: Standard answer. Listen for things about the team you might enjoy. Vet for things that might frustrate you.
+     - No: Holy shit they value diversity. 
+  - Is there anything you wish you could have told yourself, or wish that somebody would have told you before accepting this position? 
+     - Company and/or position. People change roles at large companies and might have relevant information here.
+     - This can show remorse, or regret, or the demonstrate the value of being unprepared for something.
+     - Were expectations not set?
  
  ### Notes
  
